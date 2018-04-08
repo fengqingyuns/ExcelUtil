@@ -11,4 +11,4 @@ Apache Maven
     <version>1.2.1</version>
 </dependency>
 ```
-nihao..
+nihao.
