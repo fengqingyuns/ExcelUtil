@@ -1,3 +1,9 @@
 /target
 .idea
 excel-util.iml
+/.settings/
+.classpath
+.project
+.settings/
+.gitignore
+gitignore

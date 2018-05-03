@@ -19,7 +19,7 @@ import org.apache.commons.lang3.StringUtils;
 @Target(ElementType.FIELD)
 public @interface ExcelCell {
     /**
-     * 顺序 default 100
+     * 顺序 default 100111
      * 
      * @return index
      */
